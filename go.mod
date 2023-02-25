@@ -31,7 +31,7 @@ require (
 	go.etcd.io/bbolt v1.3.3
 	golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37
 	golang.org/x/net v0.0.0-20200528225125-3c3fba18258b // indirect
-	golang.org/x/sys v0.0.0-20200523222454-059865788121 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/text v0.3.2 // indirect
 	google.golang.org/appengine v1.5.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
